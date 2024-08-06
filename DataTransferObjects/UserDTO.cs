@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace DataTransferObjects
 {
     public class UserDTO
-    {
+    {  
         public int UserId { get; set; }
 
         public string UserName { get; set; } = null!;
